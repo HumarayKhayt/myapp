@@ -16,7 +16,7 @@
             android:fontFamily="sans-serif-light"
             android:text="Humaray Khayt"
             android:textColor="@color/colorPrimaryDark"
-            android:textSize="30sp" />
+            android:textSize="35sp" />
 
         <androidx.cardview.widget.CardView
             android:id="@+id/card_view_crops"
